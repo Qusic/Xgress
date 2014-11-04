@@ -1,0 +1,9 @@
+Package: me.qusic.xgress
+Name: Xgress
+Depends: mobilesubstrate
+Version: 1
+Architecture: iphoneos-arm
+Description: Play Ingress on Jailbroken Devices
+Maintainer: Qusic
+Author: Qusic
+Section: Tweaks
