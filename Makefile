@@ -3,7 +3,7 @@ Xgress_FILES = Tweak.mm
 Xgress_LIBRARIES = substrate
 
 export TARGET = iphone:clang
-export ARCHS = armv7
+export ARCHS = armv7 arm64
 export TARGET_IPHONEOS_DEPLOYMENT_VERSION = 3.0
 export TARGET_IPHONEOS_DEPLOYMENT_VERSION_armv7s = 6.0
 export TARGET_IPHONEOS_DEPLOYMENT_VERSION_arm64 = 7.0
