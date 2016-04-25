@@ -1,3 +1,5 @@
 .theos
+obj
+debs
+*.swp
 .DS_Store
-*.deb
