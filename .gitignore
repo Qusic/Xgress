@@ -1,5 +1,5 @@
 .theos
 obj
-debs
+packages
 *.swp
 .DS_Store
